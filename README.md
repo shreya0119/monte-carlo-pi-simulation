@@ -39,6 +39,3 @@ As the number of samples increases, the estimate converges to the true value of 
 ### Error scaling
 
 ![Error](results/error_scaling.png)
-=======
-![Scatter](PROJECTS/0-Monte_Carlo_PI_Estimator/GH/monte-carlo-pi-simulation/results/scatter_snapshots.png)
-
