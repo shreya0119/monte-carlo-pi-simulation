@@ -29,23 +29,16 @@ As the number of samples increases, the estimate converges to the true value of 
 ## Results
 
 ### Random sampling snapshots
-<<<<<<< HEAD
+
 ![Scatter](results/scatter_snapshots.png)
 
 ### Convergence of π
+
 ![Convergence](results/pi_convergence.png)
 
 ### Error scaling
+
 ![Error](results/error_scaling.png)
 =======
 ![Scatter](PROJECTS/0-Monte_Carlo_PI_Estimator/GH/monte-carlo-pi-simulation/results/scatter_snapshots.png)
-
-### Convergence of π
-![Convergence](PROJECTS/0-Monte_Carlo_PI_Estimator/GH/monte-carlo-pi-simulation/results/pi_convergence.png)
-
-### Error scaling
-![Error](PROJECTS/0-Monte_Carlo_PI_Estimator/GH/monte-carlo-pi-simulation/results/error_scaling.png)
->>>>>>> 5ab4ae7 (Update README for Monte Carlo integration section)
-
-
 
